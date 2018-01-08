@@ -1,0 +1,156 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+
+<package unique-identifier = "{84B90876-3C8D-4A76-8B0C-D1C0E7C9D4C1}">
+   <metadata>
+      <dc-metadata xmlns:dc = "http://purl.org/dc/elements/1.0/">
+         <dc:Title>Unknown</dc:Title>
+         <dc:Subject>Unknown</dc:Subject>
+         <dc:Description/>
+      </dc-metadata>
+      <x-metadata>
+         <meta name = "EbooksysVersion" content = "1.50"/>
+         <meta name = "cover_overhang_size" content = "3"/>
+         <meta name = "standard_direction" content = "yes"/>
+         <meta name = "thumbnail_size" content = "medium"/>
+         <meta name = "book_background" content = "texture:C:/Program Files/E-Book Systems/FlipAlbum Vista Pro Eval/Template/Theme/Goose/Goose Book Bkgnd.jpg"/>
+         <meta name = "page_background" content = "texture:C:/Program Files/E-Book Systems/FlipAlbum Vista Pro Eval/Template/Theme/Goose/Goose Left.jpg"/>
+         <meta name = "right_page_background" content = "texture:C:/Program Files/E-Book Systems/FlipAlbum Vista Pro Eval/Template/Theme/Goose/Goose Right.jpg"/>
+         <meta name = "centerfold_page_background" content = "texture:C:/Program Files/E-Book Systems/FlipAlbum Vista Pro Eval/Template/Theme/Goose/Goose Centerfold.jpg"/>
+         <meta name = "book_background_transparent" content = "yes"/>
+         <meta name = "resize" content = "yes"/>
+         <meta name = "bookmark" content = "type: text autosize: no shape: roundrect 3deffect: yes gradienteffect: yes slope: 10 gap: -8"/>
+         <meta name = "marker" content = "type: flower"/>
+         <meta name = "book_binder" content = "numrings: 0 ringtype: none"/>
+         <meta name = "background_music" content = "no"/>
+         <meta name = "flipping_sound" content = "yes"/>
+         <meta name = "openbook" content = "yes"/>
+         <meta name = "window_frame" content = "yes"/>
+         <meta name = "page_inset" content = "top: 3 bottom: 5 inner: 5 outer: 5"/>
+         <meta name = "autoflip" content = "no"/>
+         <meta name = "centerfold" content = "no"/>
+         <meta name = "file_name" content = "no"/>
+         <meta name = "page_number" content = "yes transparent:yes border:no backcolor:16777215 position:bottom alignment:center fontname:[MS Sans Serif] fontsize:8 fontcolor:0 fontstyle:[[]]"/>
+      </x-metadata>
+   </metadata>
+   <manifest>
+      <item id = "item0" href = "flpalbm_opf_files/_fdname.flp" media-type = "application/x-flp"/>
+      <item id = "resource0_0_0" href = "C:/Program Files/E-Book Systems/FlipAlbum Vista Pro Eval/Template/Theme/Goose/Goose Front Cover.jpg" media-type = "application/x-resource"/>
+      <item id = "item1" href = "" media-type = "application/x-tmb"/>
+      <item id = "item2" href = "" media-type = "application/x-toc"/>
+      <item id = "item3" href = "Ë¹ÙàÅç¡à´ç¡´Õ (1).png" media-type = "application/x-flp"/>
+      <item id = "item4" href = "Ë¹ÙàÅç¡à´ç¡´Õ (10).png" media-type = "application/x-flp"/>
+      <item id = "item5" href = "Ë¹ÙàÅç¡à´ç¡´Õ (11).png" media-type = "application/x-flp"/>
+      <item id = "item6" href = "Ë¹ÙàÅç¡à´ç¡´Õ (12).png" media-type = "application/x-flp"/>
+      <item id = "item7" href = "Ë¹ÙàÅç¡à´ç¡´Õ (13).png" media-type = "application/x-flp"/>
+      <item id = "item8" href = "Ë¹ÙàÅç¡à´ç¡´Õ (14).png" media-type = "application/x-flp"/>
+      <item id = "item9" href = "Ë¹ÙàÅç¡à´ç¡´Õ (15).png" media-type = "application/x-flp"/>
+      <item id = "item10" href = "Ë¹ÙàÅç¡à´ç¡´Õ (16).png" media-type = "application/x-flp"/>
+      <item id = "item11" href = "Ë¹ÙàÅç¡à´ç¡´Õ (17).png" media-type = "application/x-flp"/>
+      <item id = "item12" href = "Ë¹ÙàÅç¡à´ç¡´Õ (18).png" media-type = "application/x-flp"/>
+      <item id = "item13" href = "Ë¹ÙàÅç¡à´ç¡´Õ (19).png" media-type = "application/x-flp"/>
+      <item id = "item14" href = "Ë¹ÙàÅç¡à´ç¡´Õ (2).png" media-type = "application/x-flp"/>
+      <item id = "item15" href = "Ë¹ÙàÅç¡à´ç¡´Õ (20).png" media-type = "application/x-flp"/>
+      <item id = "item16" href = "Ë¹ÙàÅç¡à´ç¡´Õ (21).png" media-type = "application/x-flp"/>
+      <item id = "item17" href = "Ë¹ÙàÅç¡à´ç¡´Õ (22).png" media-type = "application/x-flp"/>
+      <item id = "item18" href = "Ë¹ÙàÅç¡à´ç¡´Õ (23).png" media-type = "application/x-flp"/>
+      <item id = "item19" href = "Ë¹ÙàÅç¡à´ç¡´Õ (24).png" media-type = "application/x-flp"/>
+      <item id = "item20" href = "Ë¹ÙàÅç¡à´ç¡´Õ (25).png" media-type = "application/x-flp"/>
+      <item id = "item21" href = "Ë¹ÙàÅç¡à´ç¡´Õ (26).png" media-type = "application/x-flp"/>
+      <item id = "item22" href = "Ë¹ÙàÅç¡à´ç¡´Õ (27).png" media-type = "application/x-flp"/>
+      <item id = "item23" href = "Ë¹ÙàÅç¡à´ç¡´Õ (28).png" media-type = "application/x-flp"/>
+      <item id = "item24" href = "Ë¹ÙàÅç¡à´ç¡´Õ (29).png" media-type = "application/x-flp"/>
+      <item id = "item25" href = "Ë¹ÙàÅç¡à´ç¡´Õ (3).png" media-type = "application/x-flp"/>
+      <item id = "item26" href = "Ë¹ÙàÅç¡à´ç¡´Õ (30).png" media-type = "application/x-flp"/>
+      <item id = "item27" href = "Ë¹ÙàÅç¡à´ç¡´Õ (31).png" media-type = "application/x-flp"/>
+      <item id = "item28" href = "Ë¹ÙàÅç¡à´ç¡´Õ (32).png" media-type = "application/x-flp"/>
+      <item id = "item29" href = "Ë¹ÙàÅç¡à´ç¡´Õ (33).png" media-type = "application/x-flp"/>
+      <item id = "item30" href = "Ë¹ÙàÅç¡à´ç¡´Õ (34).png" media-type = "application/x-flp"/>
+      <item id = "item31" href = "Ë¹ÙàÅç¡à´ç¡´Õ (35).png" media-type = "application/x-flp"/>
+      <item id = "item32" href = "Ë¹ÙàÅç¡à´ç¡´Õ (36).png" media-type = "application/x-flp"/>
+      <item id = "item33" href = "Ë¹ÙàÅç¡à´ç¡´Õ (37).png" media-type = "application/x-flp"/>
+      <item id = "item34" href = "Ë¹ÙàÅç¡à´ç¡´Õ (38).png" media-type = "application/x-flp"/>
+      <item id = "item35" href = "Ë¹ÙàÅç¡à´ç¡´Õ (39).png" media-type = "application/x-flp"/>
+      <item id = "item36" href = "Ë¹ÙàÅç¡à´ç¡´Õ (4).png" media-type = "application/x-flp"/>
+      <item id = "item37" href = "Ë¹ÙàÅç¡à´ç¡´Õ (40).png" media-type = "application/x-flp"/>
+      <item id = "item38" href = "Ë¹ÙàÅç¡à´ç¡´Õ (41).png" media-type = "application/x-flp"/>
+      <item id = "item39" href = "Ë¹ÙàÅç¡à´ç¡´Õ (42).png" media-type = "application/x-flp"/>
+      <item id = "item40" href = "Ë¹ÙàÅç¡à´ç¡´Õ (43).png" media-type = "application/x-flp"/>
+      <item id = "item41" href = "Ë¹ÙàÅç¡à´ç¡´Õ (44).png" media-type = "application/x-flp"/>
+      <item id = "item42" href = "Ë¹ÙàÅç¡à´ç¡´Õ (45).png" media-type = "application/x-flp"/>
+      <item id = "item43" href = "Ë¹ÙàÅç¡à´ç¡´Õ (46).png" media-type = "application/x-flp"/>
+      <item id = "item44" href = "Ë¹ÙàÅç¡à´ç¡´Õ (47).png" media-type = "application/x-flp"/>
+      <item id = "item45" href = "Ë¹ÙàÅç¡à´ç¡´Õ (48).png" media-type = "application/x-flp"/>
+      <item id = "item46" href = "Ë¹ÙàÅç¡à´ç¡´Õ (5).png" media-type = "application/x-flp"/>
+      <item id = "item47" href = "Ë¹ÙàÅç¡à´ç¡´Õ (6).png" media-type = "application/x-flp"/>
+      <item id = "item48" href = "Ë¹ÙàÅç¡à´ç¡´Õ (7).png" media-type = "application/x-flp"/>
+      <item id = "item49" href = "Ë¹ÙàÅç¡à´ç¡´Õ (8).png" media-type = "application/x-flp"/>
+      <item id = "item50" href = "Ë¹ÙàÅç¡à´ç¡´Õ (9).png" media-type = "application/x-flp"/>
+      <item id = "item51" href = "flpalbm_opf_files/Separator.flp" media-type = "application/x-flp"/>
+      <item id = "resource51_0_0" href = "C:/Program Files/E-Book Systems/FlipAlbum Vista Pro Eval/Template/Theme/Goose/Goose Separator 1.jpg" media-type = "application/x-resource"/>
+      <item id = "item52" href = "flpalbm_opf_files/Separator1.flp" media-type = "application/x-flp"/>
+      <item id = "resource52_0_0" href = "C:/Program Files/E-Book Systems/FlipAlbum Vista Pro Eval/Template/Theme/Goose/Goose Separator 2.jpg" media-type = "application/x-resource"/>
+      <item id = "item53" href = "flpalbm_opf_files/Separator2.flp" media-type = "application/x-flp"/>
+      <item id = "resource53_0_0" href = "C:/Program Files/E-Book Systems/FlipAlbum Vista Pro Eval/Template/Theme/Goose/Goose Separator 3.jpg" media-type = "application/x-resource"/>
+      <item id = "item54" href = "" media-type = "application/x-idx"/>
+      <item id = "item55" href = "" media-type = "application/x-flp"/>
+      <item id = "resource55_0_0" href = "C:/Program Files/E-Book Systems/FlipAlbum Vista Pro Eval/Template/Theme/Goose/Goose Back Cover.jpg" media-type = "application/x-resource"/>
+   </manifest>
+   <spine>
+      <itemref page_background = "tiled:no texture:resource0_0_0" centerfold = "no" pageside = "right" index = "no" idref = "item0"/>
+      <itemref index = "no" idref = "item1"/>
+      <itemref index = "no" idref = "item2"/>
+      <itemref idref = "item3"/>
+      <itemref idref = "item4"/>
+      <itemref idref = "item5"/>
+      <itemref idref = "item6"/>
+      <itemref idref = "item7"/>
+      <itemref idref = "item8"/>
+      <itemref idref = "item9"/>
+      <itemref idref = "item10"/>
+      <itemref idref = "item11"/>
+      <itemref idref = "item12"/>
+      <itemref idref = "item13"/>
+      <itemref idref = "item14"/>
+      <itemref idref = "item15"/>
+      <itemref idref = "item16"/>
+      <itemref idref = "item17"/>
+      <itemref idref = "item18"/>
+      <itemref idref = "item19"/>
+      <itemref idref = "item20"/>
+      <itemref idref = "item21"/>
+      <itemref idref = "item22"/>
+      <itemref idref = "item23"/>
+      <itemref idref = "item24"/>
+      <itemref idref = "item25"/>
+      <itemref idref = "item26"/>
+      <itemref idref = "item27"/>
+      <itemref idref = "item28"/>
+      <itemref idref = "item29"/>
+      <itemref idref = "item30"/>
+      <itemref idref = "item31"/>
+      <itemref idref = "item32"/>
+      <itemref idref = "item33"/>
+      <itemref idref = "item34"/>
+      <itemref idref = "item35"/>
+      <itemref idref = "item36"/>
+      <itemref idref = "item37"/>
+      <itemref idref = "item38"/>
+      <itemref idref = "item39"/>
+      <itemref idref = "item40"/>
+      <itemref idref = "item41"/>
+      <itemref idref = "item42"/>
+      <itemref idref = "item43"/>
+      <itemref idref = "item44"/>
+      <itemref idref = "item45"/>
+      <itemref idref = "item46"/>
+      <itemref idref = "item47"/>
+      <itemref idref = "item48"/>
+      <itemref idref = "item49"/>
+      <itemref idref = "item50"/>
+      <itemref page_background = "texture:resource51_0_0" pageside = "right" idref = "item51"/>
+      <itemref page_background = "texture:resource52_0_0" pageside = "right" idref = "item52"/>
+      <itemref page_background = "texture:resource53_0_0" pageside = "right" idref = "item53"/>
+      <itemref index = "no" idref = "item54"/>
+      <itemref page_background = "tiled:no texture:resource55_0_0" centerfold = "no" pageside = "left" index = "no" idref = "item55"/>
+   </spine>
+</package>
